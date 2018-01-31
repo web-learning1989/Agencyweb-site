@@ -1,5 +1,7 @@
-@import "base/_variables";
 @import "base/_global";
+@import "base/_variables";
+@import "modules/_hero";
 body{
-    background-color:$mainColor;
+    padding:0;
+    margin:0;
 }
