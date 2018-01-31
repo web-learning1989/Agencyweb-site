@@ -1,0 +1,5 @@
+@import "base/_variables";
+@import "base/_global";
+body{
+    background-color:$mainColor;
+}
